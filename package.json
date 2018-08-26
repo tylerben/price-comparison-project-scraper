@@ -1,0 +1,17 @@
+{
+  "name": "project-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^4.1.6",
+    "request": "^2.87.0"
+  }
+}
